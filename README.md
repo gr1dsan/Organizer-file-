@@ -1,4 +1,4 @@
-Organizer+ (File Organizer)
+**Organizer+ (File Organizer)**
 
 A Python desktop application that creates categorized folders in a selected directory and sorts files into them based on their categories.
 
